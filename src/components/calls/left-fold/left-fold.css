@@ -1,0 +1,27 @@
+.leftFold 
+{
+  height: 100%;
+  background: #ebebeb;
+  box-shadow: 5px 0px 6px #dbdbdb, -5px 0px 6px #dbdbdb;
+  width: 100%;
+  z-index: -2;
+}
+
+.leftFold-menu 
+{
+  padding: 16px 0px 0px 16px;
+  height: 47%;
+}
+
+.menu-items 
+{
+  margin-top: 10px;
+  padding-bottom : 20px;
+}
+
+.menu-label 
+{
+  font-weight: 700;
+  font-size: 20px;
+}
+

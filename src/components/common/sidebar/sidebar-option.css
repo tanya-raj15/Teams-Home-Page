@@ -1,0 +1,24 @@
+.sidebar-option 
+{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 8px 0px;
+  color: #616161;
+  
+}
+.sidebar-label {
+  font-size: 9px;
+}
+
+.sidebar-icon {
+  font-size: 30px;
+  padding-top: 20px;
+}
+
+.active {
+  color: #c9570b;
+  border-left: 4px solid #e6430d;
+}
